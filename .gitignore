@@ -1,3 +1,20 @@
+# MLflow
+mlruns/
+
+# Artefacts
+.csv
+.joblib
+
+# Airflow
+standalone_admin_password.txt
+webserver_config.py
+airflow-webserver.pid
+airflow.db
+logs/
+
+# IDEA
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
